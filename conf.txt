@@ -1,0 +1,8 @@
+receptor = 3u1i.pdbqt
+size_x = 60
+size_y = 60
+size_z = 60
+center_x = 44.30
+center_y = -40.65
+center_z = 37.97
+num_modes = 20
