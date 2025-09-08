@@ -1,6 +1,7 @@
 ##########################################################
 ##### Self-Evolving L-Peptides Algorithm Version 1.5 #####
 ##########################################################
+
 The self-evolving peptide algorithm (SEPA) is a shell script (Bash), there are no installation required to use the script. 
 
 There are several prerequisite software that need to be installed before the SEPA script can be executed: 
